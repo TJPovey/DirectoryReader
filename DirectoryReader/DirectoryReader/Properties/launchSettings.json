@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DirectoryReader": {
+      "commandName": "Project",
+      "commandLineArgs": "-d D:\\models\\Clients\\Tophill\\Tophill\\Data -e obj -o D:\\models\\Clients\\Tophill\\Tophill\\Data\\input_list.txt"
+    }
+  }
+}
